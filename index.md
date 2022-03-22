@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Marusa Turnsek
 
 You can use the [editor on GitHub](https://github.com/marusaturnsek/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
